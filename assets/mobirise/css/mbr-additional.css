@@ -1691,6 +1691,12 @@ a {
   line-height: 55px;
   padding: .6rem;
 }
+.cid-uAM7PpS2Oh {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #2e481a;
+  overflow: hidden;
+}
 .cid-uvvja7o3mZ {
   z-index: 1000;
   width: 100%;
@@ -2414,6 +2420,12 @@ a {
   line-height: 55px;
   padding: .6rem;
 }
+.cid-uAM7PpS2Oh {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #2e481a;
+  overflow: hidden;
+}
 .cid-uvvja7o3mZ {
   z-index: 1000;
   width: 100%;
@@ -3107,6 +3119,12 @@ a {
   line-height: 55px;
   padding: .6rem;
 }
+.cid-uAM7PpS2Oh {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #2e481a;
+  overflow: hidden;
+}
 .cid-uvvja7o3mZ {
   z-index: 1000;
   width: 100%;
@@ -3743,4 +3761,56 @@ a {
 }
 .cid-uvwjOkyeAg .content-head {
   max-width: 800px;
+}
+.cid-uAM7JOVs8d {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #ffffff;
+}
+.cid-uAM7JOVs8d .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uAM7JOVs8d .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uAM7JOVs8d .bg-instagram {
+  background: #f00075;
+  color: #ffffff;
+}
+.cid-uAM7JOVs8d .bg-instagram:hover {
+  background: #bd005c;
+}
+.cid-uAM7JOVs8d .bg-tiktok {
+  background: #000000;
+  color: #ffffff;
+}
+.cid-uAM7JOVs8d .bg-tiktok:hover {
+  background: #000000;
+}
+.cid-uAM7JOVs8d .iconfont-wrapper {
+  display: inline-block;
+  font-size: 32px;
+  border-radius: 50%;
+  width: 72px;
+  height: 72px;
+  line-height: 72px;
+  text-align: center;
+  transition: all 0.3s ease-in-out;
+}
+.cid-uAM7JOVs8d [class^="socicon-"]:before,
+.cid-uAM7JOVs8d [class*=" socicon-"]:before {
+  line-height: 55px;
+  padding: .6rem;
+}
+.cid-uAM7PpS2Oh {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #2e481a;
+  overflow: hidden;
 }
