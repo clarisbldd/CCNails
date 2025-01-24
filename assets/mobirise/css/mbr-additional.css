@@ -2360,15 +2360,15 @@ a {
     object-fit: cover;
   }
 }
-.cid-uvwjr4q9RG {
+.cid-uAM8ZwceoO {
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
 }
-.cid-uvwjr4q9RG .mbr-fallback-image.disabled {
+.cid-uAM8ZwceoO .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uvwjr4q9RG .mbr-fallback-image {
+.cid-uAM8ZwceoO .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2377,35 +2377,21 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uvwjr4q9RG .bg-facebook {
-  background: #1778f2;
-  color: #ffffff;
-}
-.cid-uvwjr4q9RG .bg-facebook:hover {
-  background: #0b60cb;
-}
-.cid-uvwjr4q9RG .bg-twitter {
-  background: #1da1f2;
-  color: #ffffff;
-}
-.cid-uvwjr4q9RG .bg-twitter:hover {
-  background: #0c85d0;
-}
-.cid-uvwjr4q9RG .bg-instagram {
+.cid-uAM8ZwceoO .bg-instagram {
   background: #f00075;
   color: #ffffff;
 }
-.cid-uvwjr4q9RG .bg-instagram:hover {
+.cid-uAM8ZwceoO .bg-instagram:hover {
   background: #bd005c;
 }
-.cid-uvwjr4q9RG .bg-tiktok {
+.cid-uAM8ZwceoO .bg-tiktok {
   background: #000000;
   color: #ffffff;
 }
-.cid-uvwjr4q9RG .bg-tiktok:hover {
+.cid-uAM8ZwceoO .bg-tiktok:hover {
   background: #000000;
 }
-.cid-uvwjr4q9RG .iconfont-wrapper {
+.cid-uAM8ZwceoO .iconfont-wrapper {
   display: inline-block;
   font-size: 32px;
   border-radius: 50%;
@@ -2415,8 +2401,8 @@ a {
   text-align: center;
   transition: all 0.3s ease-in-out;
 }
-.cid-uvwjr4q9RG [class^="socicon-"]:before,
-.cid-uvwjr4q9RG [class*=" socicon-"]:before {
+.cid-uAM8ZwceoO [class^="socicon-"]:before,
+.cid-uAM8ZwceoO [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
 }
